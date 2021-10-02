@@ -1,0 +1,38 @@
+{
+    "canvas-background.example.com": {
+        "title": "",
+        "icon": "",
+        "description": "",
+        "keywords": [],
+        "theme": "canvas-background",
+        "detail": {
+            "logo": "",
+            "content": "",
+            "picture": "",
+            "link": [
+                {
+                    "href": "",
+                    "class": "",
+                    "sign": ""
+                }
+            ],
+            "remark": "",
+            "background_color": ""
+        }
+    },
+    "wave-bottom.example.com": {
+        "title": "",
+        "icon": "",
+        "description": "",
+        "keywords": [],
+        "theme": "wave-bottom",
+        "detail": {
+            "logo": "",
+            "powered_by": "",
+            "link": {
+                "text": "",
+                "href": ""
+            }
+        }
+    }
+}
